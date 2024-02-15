@@ -17,5 +17,10 @@
 5. Python
 
 ## Power BI Dashboard
+![Screenshot 2024-02-15 183508](https://github.com/SwapnilGavali295/Foreign-Investment-Analysis/assets/137003175/2ee11e28-fdc3-44fc-95c9-1680f9a4c4e6)
+
+## Flourish Visualization
+![Screenshot 2024-02-15 183707](https://github.com/SwapnilGavali295/Foreign-Investment-Analysis/assets/137003175/d94c6479-42ec-4fb5-827d-064b1150b5c0)
+
 
 Link To my Dashboard video -[youtube](w)
